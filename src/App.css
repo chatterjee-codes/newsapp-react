@@ -1,0 +1,13 @@
+.card {
+  text-align: center;
+  padding-top: 40px;
+}
+
+.col-3 {
+  padding: 2rem;
+}
+
+.col-9 {
+  padding: 2rem;
+  text-align: center;
+}
